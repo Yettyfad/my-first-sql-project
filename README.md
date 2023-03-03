@@ -1,2 +1,2 @@
 # my-first-sql-project
-using sql for some calculations
+This project uses sql query for some calculations
